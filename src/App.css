@@ -1,3 +1,11 @@
+*{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLUPYaL7GCSdj5sIQOZNQWA8cCbu7KBCt7pCnelXRHhw&usqp=CAU&ec=48600112");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+}
+
 .App {
   text-align: center;
 }
